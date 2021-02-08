@@ -1,0 +1,28 @@
+Time 12:00AM to 12:00AM
+Winter (17 weeks)	Summer (13 weeks)	Spring/Fall (22 weeks) 
+Wkdy	Wknd		Wkdy	Wknd		Wkdy	Wknd
+10.75
+29.25
+13.5
+15
+13
+15
+16.5
+19
+37.5
+100
+100
+100
+37.5
+100
+50
+48.75
+15
+10.25
+17.5
+16.5
+14.5
+12
+11
+11
+
