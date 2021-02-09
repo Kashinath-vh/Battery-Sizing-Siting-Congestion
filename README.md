@@ -1,5 +1,7 @@
 # Battery-Sizing-Siting-Congestion
 
+If you are using this code or the algorithm, please cite our paper. https://ieeexplore.ieee.org/abstract/document/8927649
+
 Code repo for our paper: "Optimal siting and sizing of batteries in radial autonomous microgrids considering congestion"
 
 Published in:  IECON 2019 - 45th Annual Conference of the IEEE Industrial Electronics Society
